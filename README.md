@@ -20,3 +20,7 @@ The engine generates a synthetic population of **20,000 users** with interdepend
 * **Context**: Device Type (Mobile, Desktop, Tablet).
 * **The "Twist"**: The simulation logic ensures the Treatment (Mobile-First UI) performs +4% better on Mobile but -3% worse for Seniors, allowing for a deep dive into **Simpson's Paradox**.
 
+## Visual Analysis
+### 
+![Risk Profile Plot](ABtest.png) 
+
