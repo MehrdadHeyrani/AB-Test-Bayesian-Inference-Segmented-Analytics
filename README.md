@@ -50,5 +50,5 @@ This framework incorporates a variety of statistical methods to ensure robust an
 
 ## Visual Analysis
 ### 
-![Risk Profile Plot](ABtest.png) 
+![Risk Profile Plot](ab.png) 
 
